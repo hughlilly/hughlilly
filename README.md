@@ -1,4 +1,8 @@
-### Hi there 👋
+### Kia ora! 👋🏻
+
+Ko Hugh Lilly tōku ingoa. I am presently a student of the [Diploma in Web Development + Design](https://www.whitecliffe.ac.nz/technology/diploma-in-web-development-and-design-l5) (L5) at Whitecliffe College, in Auckland, New Zealand. I will graduate in the middle of December and am working on a full-stack web app as a final project, using [Strapi](https://github.com/strapi/strapi), [Node.js](http://nodejs.org), [Cloudinary](https://cloudinary.com), [Render](https://www.render.com) and [Remix](https://github.com/remix-run/remix). (This README will be updated with a link to the finished project once it is live.)
+
+I have a BA (Hons) from Auckland University, and in 2021 attained the [NZ Certificate in Tikanga (Mātauranga Māori)) (L3)](https://www.twoa.ac.nz/nga-akoranga-our-programmes/study-from-home/certificate-in-tikanga-maori) from Te Wānanga o Aotearoa. Prior to commencing the Whitecliffe diploma, I worked in the Research Library at [Auckland War Memorial Museum Tāmaki Paenga Hira](http://aucklandmuseum.com) for 9 and a half years, most recently as Systems Librarian. For more, see [this post on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6987884019266846720/).
 
 <!--
 **hughlilly/hughlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
