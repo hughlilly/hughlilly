@@ -4,6 +4,9 @@ Ko Hugh Lilly tōku ingoa. I am presently a student of the [Diploma in Web Devel
 
 I have a BA (Hons) from Auckland University, and in 2021 attained the [NZ Certificate in Tikanga (Mātauranga Māori)) (L3)](https://www.twoa.ac.nz/nga-akoranga-our-programmes/study-from-home/certificate-in-tikanga-maori) from Te Wānanga o Aotearoa. Prior to commencing the Whitecliffe diploma, I worked in the Research Library at [Auckland War Memorial Museum Tāmaki Paenga Hira](http://aucklandmuseum.com) for 9 and a half years, most recently as Systems Librarian. For more, see [this post on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6987884019266846720/).
 
+
+[![Wikipedia][wikipedia-contributions-img]][wikipedia-contributions-url]
+
 <!--
 **hughlilly/hughlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[wikipedia-contributions-img]: https://img.shields.io/badge/Wikipedia_Contributions-6k-lightgrey?logo=wikipedia&style=social
+[wikipedia-contributions-url]: https://xtools.wmflabs.org/ec/en.wikipedia.org/HughLilly
