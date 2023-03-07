@@ -5,7 +5,7 @@ Ko Hugh Lilly tōku ingoa. I am a recent graduate of the [Diploma in Web Develop
 I have a BA (Hons) from Auckland University, and in 2021 attained the [NZ Certificate in Tikanga (Mātauranga Māori)) (L3)](https://www.twoa.ac.nz/nga-akoranga-our-programmes/study-from-home/certificate-in-tikanga-maori) from Te Wānanga o Aotearoa. Prior to commencing the Whitecliffe diploma, I worked in the Research Library at [Auckland War Memorial Museum Tāmaki Paenga Hira](http://aucklandmuseum.com) for a decade, most recently as Systems Librarian. For more, see [this post on my LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6987884019266846720/).
 
 
-[![Wikipedia][wikipedia-contributions-img]][wikipedia-contributions-url]
+[![Wikipedia][wikipedia-contributions-img]][wikipedia-contributions-url] ![Twitter Follow](https://img.shields.io/twitter/follow/insequential?label=Twitter%20account&style=social)
 
 <!--
 **hughlilly/hughlilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
